@@ -15,6 +15,11 @@ A PocketMine 4.0 Plugin will display staff member lists
 - Github: https://github.com/BabosApple/StaffList/releases/tag/release
 - Direct Link: https://cdn.discordapp.com/attachments/848008775352320011/928085048152973332/StaffList.phar
 
+# Donation Links
+Feel free to support me via my donation page UwU (i really appriciate your support)
+- PayPal: https://paypal.me/jedimasters
+- Saweria: https://saweria.co/platewheelyt
+
 # Terms Of Use
 - You can use this plugin in commercial/non-commercial *server*
 - You can use this plugin on PocketMine-MP Software modifications
