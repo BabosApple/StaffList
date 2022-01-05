@@ -19,4 +19,5 @@ A PocketMine 4.0 Plugin will display staff member lists
 - You can use this plugin in commercial/non-commercial *server*
 - You can edit/modify the content in this plugin
 - You cannot sell this plugin
+- You cannot upload this plugin to other websites/uploading services
 - This plugin can only be used in PocketMine Software
