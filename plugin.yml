@@ -1,0 +1,27 @@
+name: StaffList
+main: Plate\StaffList\Main
+author: Plate
+api: 4.0.0
+version: 1.0
+
+commands:
+ addstaff:
+  description: "Add a new player to the staff list"
+  permission: staffcmd.add
+ stafflist:
+  description: "See all the staff(s) in the server"
+  permission: staffcmd.view
+ delstaff:
+  description: "Remove a player from the staff list"
+  permission: staffcmd.delete
+  
+permissions:
+ staffcmd.add:
+  description: "Add"
+  default: op
+ staffcmd.delete:
+  description: "Del"
+  default: op
+ staffcmd.view:
+  description: "View"
+  default: true
